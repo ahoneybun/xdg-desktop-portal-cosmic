@@ -1,3 +1,9 @@
+xdg-desktop-portal-cosmic (0.1.0ubuntu2) noble; urgency=medium
+
+  * Resync with master
+
+ -- Aaron Honeycutt <aaron@system76.com>  Fri, 29 Mar 2024 11:35:06 -0600
+
 xdg-desktop-portal-cosmic (0.1.0ubuntu1) noble; urgency=medium
 
   * Update to noble
